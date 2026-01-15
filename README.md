@@ -30,7 +30,7 @@
 - 🔄 Repeat `Brainstorming`, `Coding`, and `Debugging`.
 - 📂 Portfolio:  **<a href="https://gaurishbudhiraja.vercel.app" target="_blank">https://gaurishbudhiraja.vercel.app</a>**
 - 📫 How to reach me **gaurishbudhiraja2005@gmail.com**
-- 📄 Know more about my experiences in my **[Resume](https://www.canva.com/design/DAGziaM3pJw/Y0vfv8yLhY8Pt3kRd0P8aA/edit?utm_content=DAGziaM3pJw&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)**.
+- 📄 Know more about my experiences in my **[Resume]([https://www.canva.com/design/DAGziaM3pJw/Y0vfv8yLhY8Pt3kRd0P8aA/edit?utm_content=DAGziaM3pJw&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton](https://acrobat.adobe.com/id/urn:aaid:sc:AP:34a4d510-8e80-4ed3-8b48-23ce6c05360d))**.
 
 - ✨ Enjoy my GitHub profile.
 
