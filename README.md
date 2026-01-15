@@ -1,6 +1,7 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/GaurishBudhiraja/GaurishBudhiraja/main/banner.gif
-" width="900"/>
+  <img src="https://raw.githubusercontent.com/GaurishBudhiraja/GaurishBudhiraja/main/banner.gif"
+       style="border:3px solid #00ff9c; border-radius:12px; box-shadow:0 0 25px #00ff9c;"
+       width="100%" />
 </p>
 
 <h1 id="top" align="center">Hi, I'm Gaurish Budhiraja <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1></h1>
