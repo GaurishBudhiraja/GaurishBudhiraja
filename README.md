@@ -1,8 +1,10 @@
 <p align="center">
   <img src="https://raw.githubusercontent.com/GaurishBudhiraja/GaurishBudhiraja/main/g_banner.gif"
-       style="border:3px solid #00ff9c; border-radius:12px; box-shadow:0 0 25px #00ff9c;"
-       width="100%" />
+       width="100%"
+       height="260"
+       style="object-fit:cover; border:3px solid #00ff9c; border-radius:14px; box-shadow:0 0 25px #00ff9c;" />
 </p>
+
 
 <h1 id="top" align="center">Hi, I'm Gaurish Budhiraja <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1></h1>
 <h3 align="center">Cybersecurity Engineer | Blue Team Junior Analyst | Linux Security</h3>
