@@ -1,5 +1,6 @@
 <p align="center">
-  <img src="https://github.com/Yobro7292/Yobro7292/blob/main/yogi_banner_shrink.gif" width="900"/>
+  <img src="https://raw.githubusercontent.com/GaurishBudhiraja/GaurishBudhiraja/main/banner.gif
+" width="900"/>
 </p>
 
 <h1 id="top" align="center">Hi, I'm Gaurish Budhiraja <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1></h1>
