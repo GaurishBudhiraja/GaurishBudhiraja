@@ -13,9 +13,6 @@
   <img src="https://komarev.com/ghpvc/?username=GaurishBudhiraja&label=Profile%20Views&color=0e75b6&style=flat-square" alt="Views" height="21" /> 
   <img src="https://img.shields.io/github/followers/GaurishBudhiraja?label=Followers&color=0e75b6&style=flat-square" alt="Followers" height="21" width="100" />
   <img src="https://img.shields.io/github/stars/GaurishBudhiraja?label=Stars&color=0e75b6&style=flat-square" alt="Stars" height="21" />
-  <img src="https://img.shields.io/github/forks/GaurishBudhiraja/Software-Engineering?label=Forks&color=0e75b6&style=flat-square" alt="Forks" height="21" />
-  <img src="https://img.shields.io/github/watchers/GaurishBudhiraja/Software-Engineering?label=Watchers&style=flat-square&color=0e75b6" alt="Watchers" height="21" />
-</p>
 ---
 
 ## 🧠 About Me
