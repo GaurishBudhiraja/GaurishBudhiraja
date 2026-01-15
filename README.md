@@ -101,10 +101,6 @@ src="https://github.com/SamirPaulb/SamirPaulb/blob/main/assets/rainbow-superthin
 <img width="48%" src="https://streak-stats.demolab.com/?user=GaurishBudhiraja&theme=gruvbox"/>
 </p>
 
-<p align="center">
-<img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GaurishBudhiraja&layout=compact&theme=gruvbox"/>
-</p>
-
 <h2 align="center">🐍 Snake Eating My Contributions</h2>
 
 <p align="center">
@@ -118,7 +114,8 @@ src="https://github.com/SamirPaulb/SamirPaulb/blob/main/assets/rainbow-superthin
   </picture>
 </p>
 
-
+<img width="100%" loading="lazy"
+src="https://github.com/SamirPaulb/SamirPaulb/blob/main/assets/rainbow-superthin.webp" />
 
 ## 🌐 Connect
 <p align="center">
