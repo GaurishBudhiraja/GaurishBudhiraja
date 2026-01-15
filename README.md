@@ -68,7 +68,7 @@ Social Media</h2>
 <img align="center" src="https://github.com/dheereshagrwal/colored-icons/blob/master/public/logos/social%20media/instagram/instagram.svg" height="40" width="35"/></a> &nbsp;
 
 <a href="https://www.codechef.com/users/gaurish_01" target="_blank">
-<img align="center" src="https://upload.wikimedia.org/wikipedia/commons/0/0b/CodeChef_Logo.svg" height="40" width="40"/>
+<img align="center" src="https://www.svgrepo.com/svg/305880/codechef" height="40" width="40"/>
 </a> &nbsp;
 
 <a href="https://codeforces.com/profile/gaurish_budhiraja" target="_blank">
