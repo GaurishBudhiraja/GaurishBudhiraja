@@ -54,22 +54,44 @@
 
 <img width="100%" loading="lazy" src="https://github.com/SamirPaulb/SamirPaulb/blob/main/assets/rainbow-superthin.webp" />
 
+<h2><a id="social-media"></a>
+<img src="https://user-images.githubusercontent.com/74038190/235294016-6556559a-ed58-4ca6-a4c9-c307cbe0b6b7.gif" width="30">
+Social Media</h2>
 
-## ⚙️ Languages & Tools
-<table align="center">
-<tr>
-<td align="center"><img src="https://techstack-generator.vercel.app/python-icon.svg" width="65"/><br>Python</td>
-<td align="center"><img src="https://techstack-generator.vercel.app/cpp-icon.svg" width="65"/><br>C++</td>
-<td align="center"><img src="https://techstack-generator.vercel.app/java-icon.svg" width="65"/><br>Java</td>
-<td align="center"><img src="https://techstack-generator.vercel.app/js-icon.svg" width="65"/><br>JavaScript</td>
-<td align="center"><img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" width="65"/><br>Arduino</td>
-<td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="65"/><br>Linux</td>
-<td align="center"><img src="https://techstack-generator.vercel.app/docker-icon.svg" width="65"/><br>Docker</td>
-<td align="center"><img src="https://techstack-generator.vercel.app/git-icon.svg" width="65"/><br>Git</td>
-</tr>
-</table>
+<a href="https://linkedin.com/in/gaurish-budhiraja-7296a9312" target="_blank">
+<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="40" width="40"/></a> &nbsp;
 
----
+<a href="https://twitter.com/gaurish_b" target="_blank">
+<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" height="40" width="40"/></a> &nbsp;
+
+<a href="https://instagram.com/gaurish_budhiraja" target="_blank">
+<img align="center" src="https://github.com/dheereshagrwal/colored-icons/blob/master/public/logos/social%20media/instagram/instagram.svg" height="40" width="35"/></a> &nbsp;
+
+<a href="https://www.codechef.com/users/gaurish_01" target="_blank">
+<img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" height="40" width="40"/></a> &nbsp;
+
+<a href="https://codeforces.com/profile/gaurish_budhiraja" target="_blank">
+<img align="center" src="https://github.com/dheereshag/coloured-icons/blob/master/public/logos/technology/codeforces/codeforces.svg" height="40" width="35"/></a> &nbsp;
+
+<a href="https://www.leetcode.com/gaurish_01" target="_blank">
+<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" height="38" width="35"/></a> &nbsp;
+
+<a href="https://www.hackthebox.com" target="_blank">
+<img align="center" src="https://www.svgrepo.com/show/331760/hack-the-box.svg" height="40" width="40"/></a> &nbsp;
+
+<a href="https://tryhackme.com" target="_blank">
+<img align="center" src="https://tryhackme.com/img/favicon.png" height="40" width="40"/></a> &nbsp;
+
+<a href="https://gaurishbudhiraja.vercel.app" target="_blank">
+<img align="center" src="https://img.icons8.com/color/48/domain.png" height="40" width="40"/></a>
+
+<img width="100%" loading="lazy"
+src="https://github.com/SamirPaulb/SamirPaulb/blob/main/assets/rainbow-superthin.webp" />
+
+
+
+
+
 
 ## 📊 GitHub Stats
 <p align="center">
