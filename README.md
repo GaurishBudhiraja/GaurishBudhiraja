@@ -6,14 +6,15 @@
 <h3 align="center">Cybersecurity Engineer | Blue Team Analyst | Linux Security</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=00FF00&center=true&vCenter=true&width=650&lines=Threat+Hunting+%7C+Linux+Security;Blue+Team+Analyst+%7C+IDS+Researcher;CTF+Player+%7C+HTB+TryHackMe" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=00FF00&center=true&vCenter=true&width=650&lines=Threat+Hunter+%7C+Linux+Security;Blue+Team+Analyst+%7C+IDS+Researcher;CTF+Player+%7C+HTB+TryHackMe;Passionate+Programmer;Quick+Learner" />
 </p>
+
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=GaurishBudhiraja&label=Profile%20Views&color=0e75b6&style=flat-square" alt="Views" height="21" /> 
   <img src="https://img.shields.io/github/followers/GaurishBudhiraja?label=Followers&color=0e75b6&style=flat-square" alt="Followers" height="21" width="100" />
   <img src="https://img.shields.io/github/stars/GaurishBudhiraja?label=Stars&color=0e75b6&style=flat-square" alt="Stars" height="21" />
----
+
 
 ## 🧠 About Me
 Cybersecurity-focused CSE undergraduate specializing in Linux hardening, network defense, intrusion detection, ethical hacking, and AI-driven security automation.  
