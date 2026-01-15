@@ -3,7 +3,7 @@
 </p>
 
 <h1 id="top" align="center">Hi, I'm Gaurish Budhiraja <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1></h1>
-<h3 align="center">Cybersecurity Engineer | Blue Team Analyst | Linux Security</h3>
+<h3 align="center">Cybersecurity Engineer | Blue Team Junior Analyst | Linux Security</h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=00FF00&center=true&vCenter=true&width=650&lines=Threat+Hunter+%7C+Linux+Security;Blue+Team+Analyst+%7C+IDS+Researcher;CTF+Player+%7C+HTB+TryHackMe;Passionate+Programmer;Quick+Learner" />
@@ -22,21 +22,15 @@
 
 <img align="right" width="370" height="320" alt="Coding" src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif">
 
-- ⭐ I’m a `Software Engineer`, [**`DSF Member`**](https://www.djangoproject.com/foundation/individual-members/), and [**`Community Builder`**](https://github.com/AhmedNassar7/Software-Engineering).
+- ⭐ I’m a `Cybersecurity Engineer`, `Software Engineer`, `Web Developer`, `Blue Team Junior Analyst`, and  `Researcher`.
   
-- 🚀 Passionate about `Web Development`.
-
+- 🚀 Passionate about `Cybersecurity and Aritificial Intelligence`.
 - 💡 Interested in contributing to `Open Source Projects`.
-
-- 💬 Ask me about `Software Engineering`.
-
-- 🎯 Focus on `Quality` over `Quantity`
-  
 - 🔍 Seeking an `Internship` or a `Job`.
-
 - 🔄 Repeat `Brainstorming`, `Coding`, and `Debugging`.
-
-- 📄 Know more about my experiences in my **[Resume](https://drive.google.com/file/d/1AZ9sVmv92Bqf_8hZIC49jYnkNMwwdTUv/view?usp=sharing)**.
+- 📂 Portfolio:  **<a href="https://gaurishbudhiraja.vercel.app" target="_blank">https://gaurishbudhiraja.vercel.app</a>**
+- 📫 How to reach me **gaurishbudhiraja2005@gmail.com**
+- 📄 Know more about my experiences in my **[Resume](https://www.canva.com/design/DAGziaM3pJw/Y0vfv8yLhY8Pt3kRd0P8aA/edit?utm_content=DAGziaM3pJw&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)**.
 
 - ✨ Enjoy my GitHub profile.
 
