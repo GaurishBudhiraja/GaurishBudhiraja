@@ -68,7 +68,8 @@ Social Media</h2>
 <img align="center" src="https://github.com/dheereshagrwal/colored-icons/blob/master/public/logos/social%20media/instagram/instagram.svg" height="40" width="35"/></a> &nbsp;
 
 <a href="https://www.codechef.com/users/gaurish_01" target="_blank">
-<img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" height="40" width="40"/></a> &nbsp;
+<img align="center" src="https://upload.wikimedia.org/wikipedia/commons/0/0b/CodeChef_Logo.svg" height="40" width="40"/>
+</a> &nbsp;
 
 <a href="https://codeforces.com/profile/gaurish_budhiraja" target="_blank">
 <img align="center" src="https://github.com/dheereshag/coloured-icons/blob/master/public/logos/technology/codeforces/codeforces.svg" height="40" width="35"/></a> &nbsp;
@@ -77,9 +78,10 @@ Social Media</h2>
 <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" height="38" width="35"/></a> &nbsp;
 
 <a href="https://www.hackthebox.com" target="_blank">
-<img align="center" src="https://www.svgrepo.com/show/331760/hack-the-box.svg" height="40" width="40"/></a> &nbsp;
+<img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/hackthebox/hackthebox-original.svg" height="40" width="40"/>
+</a> &nbsp;
 
-<a href="https://tryhackme.com" target="_blank">
+<a href="https://tryhackme.com/p/gaurishbudhiraja" target="_blank">
 <img align="center" src="https://tryhackme.com/img/favicon.png" height="40" width="40"/></a> &nbsp;
 
 <a href="https://gaurishbudhiraja.vercel.app" target="_blank">
