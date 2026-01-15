@@ -42,16 +42,18 @@
 
 <img width="100%" loading="lazy" src="https://github.com/SamirPaulb/SamirPaulb/blob/main/assets/rainbow-superthin.webp" />
 
-
-
 ## 🛡️ Security Domains
-- Threat Hunting & Incident Response  
-- Linux Hardening & Server Security  
-- ML-based Intrusion Detection  
-- Digital Forensics & OSINT  
-- Android & Web Exploitation Research  
 
----
+- 🕵️‍♂️ **Threat Hunting & Vulnerability Management**
+- 🛡️ **Linux Hardening & Network Security**
+- 🤖 **ML-based Intrusion Detection Systems (IDS)**
+- 🔬 **Digital Forensics & OSINT**
+- 🌐 **Dark Web Operations & Network Analysis**
+- 📱 **Android & Web Exploitation Research**
+
+
+<img width="100%" loading="lazy" src="https://github.com/SamirPaulb/SamirPaulb/blob/main/assets/rainbow-superthin.webp" />
+
 
 ## ⚙️ Languages & Tools
 <table align="center">
