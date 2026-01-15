@@ -68,7 +68,8 @@ Social Media</h2>
 <img align="center" src="https://github.com/dheereshagrwal/colored-icons/blob/master/public/logos/social%20media/instagram/instagram.svg" height="40" width="35"/></a> &nbsp;
 
 <a href="https://www.codechef.com/users/gaurish_01" target="_blank">
-<img align="center" src="https://www.svgrepo.com/svg/305880/codechef" height="40" width="40"/>
+<img align="center" src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/codechef.svg
+" height="40" width="40"/>
 </a> &nbsp;
 
 <a href="https://codeforces.com/profile/gaurish_budhiraja" target="_blank">
@@ -78,7 +79,8 @@ Social Media</h2>
 <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" height="38" width="35"/></a> &nbsp;
 
 <a href="https://www.hackthebox.com" target="_blank">
-<img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/hackthebox/hackthebox-original.svg" height="40" width="40"/>
+<img align="center" src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/hackthebox.svg
+" height="40" width="40"/>
 </a> &nbsp;
 
 <a href="https://tryhackme.com/p/gaurishbudhiraja" target="_blank">
