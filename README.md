@@ -90,10 +90,11 @@ Social Media</h2>
 <img width="100%" loading="lazy"
 src="https://github.com/SamirPaulb/SamirPaulb/blob/main/assets/rainbow-superthin.webp" />
 
-
 <h2 id="technical-skills">
 <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="30"> Cybersecurity Skill Matrix
 </h2>
+
+<!-- ================= PROGRAMMING ================= -->
 
 <h3>
 <img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Programming_Languages.gif" width="28">
@@ -101,10 +102,16 @@ src="https://github.com/SamirPaulb/SamirPaulb/blob/main/assets/rainbow-superthin
 </h3>
 
 <a href="https://skillicons.dev">
-<img src="https://skillicons.dev/icons?i=cpp,c,java,py,bash,html,css,javascript,sql,R" />
+<img src="https://skillicons.dev/icons?i=c,cpp,java,python,bash,html,css,javascript,mysql" />
 </a>
 
+• Low-level Exploit Dev  
+• Automation Scripts  
+• Web Payload Engineering  
+
 ---
+
+<!-- ================= RED TEAM ================= -->
 
 <h3>
 <img src="https://user-images.githubusercontent.com/74038190/216649437-3f26a7e0-cc12-4bcf-b71b-8c5b68edcc08.gif" width="30">
@@ -115,11 +122,13 @@ src="https://github.com/SamirPaulb/SamirPaulb/blob/main/assets/rainbow-superthin
 <img src="https://skillicons.dev/icons?i=linux,kali,nginx" />
 </a>
 
+• Burp Suite • Metasploit • Nmap • Nessus • OpenVAS  
+• SQLi • XSS • RCE • Privilege Escalation  
 • Web Exploitation • Android Security • CTF Player  
-• Burp Suite • Metasploit • Nmap • SQLi / XSS / RCE  
-• Reverse Engineering • Privilege Escalation  
 
 ---
+
+<!-- ================= BLUE TEAM ================= -->
 
 <h3>
 <img src="https://user-images.githubusercontent.com/74038190/216649445-4c0215ef-9c92-45b2-a99a-0f9b6b9304b4.gif" width="30">
@@ -130,11 +139,13 @@ src="https://github.com/SamirPaulb/SamirPaulb/blob/main/assets/rainbow-superthin
 <img src="https://skillicons.dev/icons?i=linux,windows" />
 </a>
 
-• SIEM Monitoring • Incident Response  
-• Log Analysis • Threat Hunting • Malware Analysis  
-• Digital Forensics • Memory & Disk Forensics  
+• SIEM Monitoring • Threat Hunting  
+• Malware Analysis • Digital Forensics  
+• Volatility • Autopsy • Memory & Disk Forensics  
 
 ---
+
+<!-- ================= NETWORK ================= -->
 
 <h3>
 <img src="https://user-images.githubusercontent.com/74038190/216649436-1c641d9b-4a27-4516-95b7-ec9aee37b6a8.gif" width="30">
@@ -142,14 +153,16 @@ src="https://github.com/SamirPaulb/SamirPaulb/blob/main/assets/rainbow-superthin
 </h3>
 
 <a href="https://skillicons.dev">
-<img src="https://skillicons.dev/icons?i=linux,nginx,docker" />
+<img src="https://skillicons.dev/icons?i=linux,docker,nginx" />
 </a>
 
-• Firewall Hardening • IDS/IPS  
-• Snort • Suricata • Zeek  
-• Network Traffic Analysis • PCAP Forensics  
+• Wireshark • Snort • Suricata • Zeek  
+• Firewall Hardening • IDS / IPS  
+• PCAP Forensics  
 
 ---
+
+<!-- ================= CLOUD ================= -->
 
 <h3>
 <img src="https://user-images.githubusercontent.com/74038190/216649442-1a7998d7-b1bb-4c1a-bd77-6875dbcb35b7.gif" width="30">
@@ -160,11 +173,13 @@ src="https://github.com/SamirPaulb/SamirPaulb/blob/main/assets/rainbow-superthin
 <img src="https://skillicons.dev/icons?i=aws,docker,kubernetes,linux" />
 </a>
 
-• Secure Cloud Architectures  
-• CI/CD Hardening  
-• Container Security • IAM Policies  
+• Secure Cloud Architecture  
+• Container Security • CI/CD Hardening  
+• IAM Policy Enforcement  
 
 ---
+
+<!-- ================= OSINT ================= -->
 
 <h3>
 <img src="https://user-images.githubusercontent.com/74038190/216649433-17e5dc93-1d1b-4fd7-9b05-0bb3fa1e04d8.gif" width="30">
@@ -178,6 +193,8 @@ src="https://github.com/SamirPaulb/SamirPaulb/blob/main/assets/rainbow-superthin
 
 ---
 
+<!-- ================= TOOLS ================= -->
+
 <h3>
 <img src="https://user-images.githubusercontent.com/74038190/216649440-5b2a63e5-6dc5-47cc-8f63-7dc6bb76fa9d.gif" width="30">
  Tools & Platforms
@@ -187,10 +204,9 @@ src="https://github.com/SamirPaulb/SamirPaulb/blob/main/assets/rainbow-superthin
 <img src="https://skillicons.dev/icons?i=git,github,postman,vscode,linux,windows" />
 </a>
 
-• Wireshark • Autopsy • FTK • Volatility  
+• Wireshark • Autopsy • Volatility  
 • Nessus • OpenVAS • Burp • Metasploit  
-
-
+• Nmap • Kali Linux • OWASP ZAP  
 
 
 ## 📊 GitHub Stats
