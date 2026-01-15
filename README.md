@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/GaurishBudhiraja/GaurishBudhiraja/main/banner.gif"
+  <img src="https://raw.githubusercontent.com/GaurishBudhiraja/GaurishBudhiraja/main/g_banner.gif"
        style="border:3px solid #00ff9c; border-radius:12px; box-shadow:0 0 25px #00ff9c;"
        width="100%" />
 </p>
