@@ -105,14 +105,19 @@ src="https://github.com/SamirPaulb/SamirPaulb/blob/main/assets/rainbow-superthin
 <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GaurishBudhiraja&layout=compact&theme=gruvbox"/>
 </p>
 
-<h2><a id="snake"></a> 🐍 Snake Eating My Contributions</h2>  
+<h2 align="center">🐍 Snake Eating My Contributions</h2>
+
 <p align="center">
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/GaurishBudhiraja/GaurishBudhiraja/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/GaurishBudhiraja/GaurishBudhiraja/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/GaurishBudhiraja/GaurishBudhiraja/output/github-contribution-grid-snake.svg">
-</picture>
+  <picture>
+    <source media="(prefers-color-scheme: dark)"
+      srcset="https://raw.githubusercontent.com/GaurishBudhiraja/GaurishBudhiraja/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)"
+      srcset="https://raw.githubusercontent.com/GaurishBudhiraja/GaurishBudhiraja/output/github-contribution-grid-snake.svg">
+    <img alt="snake" 
+      src="https://raw.githubusercontent.com/GaurishBudhiraja/GaurishBudhiraja/output/github-contribution-grid-snake.svg">
+  </picture>
 </p>
+
 
 
 ## 🌐 Connect
