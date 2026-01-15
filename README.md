@@ -101,7 +101,7 @@ src="https://github.com/SamirPaulb/SamirPaulb/blob/main/assets/rainbow-superthin
 </h3>
 
 <a href="https://skillicons.dev">
-<img src="https://skillicons.dev/icons?i=cpp,c,java,py,bash" />
+<img src="https://skillicons.dev/icons?i=cpp,c,java,py,bash,html,css,javascript,sql,R" />
 </a>
 
 ---
