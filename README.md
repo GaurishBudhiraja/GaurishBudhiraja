@@ -1,24 +1,75 @@
-<h1 align="center">Hi 👋, I'm Gaurish Budhiraja</h1>
-<h3 align="center">A passionate Tech enthusiast from India</h3>
-
-- 👨‍💻 All of my projects are available at [https://github.com/GaurishBudhiraja](https://github.com/GaurishBudhiraja)
-
-- 📫 How to reach me **gaurishbudhiraja2005@gmail.com**
-
-- 📄 Know about my experiences [www.linkedin.com/in/gaurish-budhiraja-7296a9312](www.linkedin.com/in/gaurish-budhiraja-7296a9312)
-
-- 🧩 Hobbies **🎸 Guitarist | 🌍 Travel Enthusiast | ⚽ Football Lover**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/gaurish_b" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="gaurish_b" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/gaurish budhiraja" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="gaurish budhiraja" height="30" width="40" /></a>
-<a href="https://kaggle.com/gaurish_budhiraja01" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="gaurish_budhiraja01" height="30" width="40" /></a>
-<a href="https://instagram.com/gaurish_budhiraja" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="gaurish_budhiraja" height="30" width="40" /></a>
-<a href="https://www.codechef.com/users/gaurish_01" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="gaurish_01" height="30" width="40" /></a>
-<a href="https://codeforces.com/profile/gaurish_budhiraja" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="gaurish_budhiraja" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/gaurish_01" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="gaurish_01" height="30" width="40" /></a>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/abhisheknaiidu/awesome-github-profile-readme/master/assets/agpr.gif" width="900"/>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
+<h1 align="center">Gaurish Budhiraja</h1>
+<h3 align="center">Cybersecurity Engineer | Blue Team Analyst | Linux Security</h3>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=00FF00&center=true&vCenter=true&width=650&lines=Threat+Hunting+%7C+Linux+Security;Blue+Team+Analyst+%7C+IDS+Researcher;CTF+Player+%7C+HTB+TryHackMe" />
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=GaurishBudhiraja&label=Profile+Views&color=00FF00&style=flat-square"/>
+</p>
+
+---
+
+## 🧠 About Me
+Cybersecurity-focused CSE undergraduate specializing in Linux hardening, network defense, intrusion detection, ethical hacking, and AI-driven security automation.  
+Active Blue Team Junior Analyst, IDS researcher, and CTF player.
+
+---
+
+## 🛡️ Security Domains
+- Threat Hunting & Incident Response  
+- Linux Hardening & Server Security  
+- ML-based Intrusion Detection  
+- Digital Forensics & OSINT  
+- Android & Web Exploitation Research  
+
+---
+
+## ⚙️ Languages & Tools
+<table align="center">
+<tr>
+<td align="center"><img src="https://techstack-generator.vercel.app/python-icon.svg" width="65"/><br>Python</td>
+<td align="center"><img src="https://techstack-generator.vercel.app/cpp-icon.svg" width="65"/><br>C++</td>
+<td align="center"><img src="https://techstack-generator.vercel.app/java-icon.svg" width="65"/><br>Java</td>
+<td align="center"><img src="https://techstack-generator.vercel.app/js-icon.svg" width="65"/><br>JavaScript</td>
+<td align="center"><img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" width="65"/><br>Arduino</td>
+<td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="65"/><br>Linux</td>
+<td align="center"><img src="https://techstack-generator.vercel.app/docker-icon.svg" width="65"/><br>Docker</td>
+<td align="center"><img src="https://techstack-generator.vercel.app/git-icon.svg" width="65"/><br>Git</td>
+</tr>
+</table>
+
+---
+
+## 📊 GitHub Stats
+<p align="center">
+<img width="48%" src="https://github-readme-stats.vercel.app/api?username=GaurishBudhiraja&show_icons=true&theme=gruvbox"/>
+<img width="48%" src="https://streak-stats.demolab.com/?user=GaurishBudhiraja&theme=gruvbox"/>
+</p>
+
+<p align="center">
+<img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GaurishBudhiraja&layout=compact&theme=gruvbox"/>
+</p>
+
+---
+
+## 🐍 Snake Eating My Contributions
+<p align="center">
+  <img src="https://raw.githubusercontent.com/GaurishBudhiraja/GaurishBudhiraja/output/github-contribution-grid-snake.svg"/>
+</p>
+
+---
+
+## 🌐 Connect
+<p align="center">
+<a href="https://linkedin.com/in/gaurish-budhiraja-7296a9312"><img src="https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedin"/></a>
+<a href="mailto:gaurishbudhiraja2005@gmail.com"><img src="https://img.shields.io/badge/Gmail-000?style=for-the-badge&logo=gmail"/></a>
+<a href="https://github.com/GaurishBudhiraja"><img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github"/></a>
+</p>
+
+> ⚠️ All security research is conducted in controlled, ethical environments only.
