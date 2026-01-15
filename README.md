@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/abhisheknaiidu/awesome-github-profile-readme/master/assets/agpr.gif" width="900"/>
+  <img src="https://github.com/Yobro7292/Yobro7292/blob/main/yogi_banner_shrink.gif" width="900"/>
 </p>
 
 <h1 align="center">Gaurish Budhiraja</h1>
