@@ -126,8 +126,8 @@ src="https://github.com/SamirPaulb/SamirPaulb/blob/main/assets/rainbow-superthin
 <img src="https://skillicons.dev/icons?i=linux,kali,nginx" />
 </a>
 
-• Burp Suite • Metasploit • Nmap • Nessus • OpenVAS  
-• SQLi • XSS • RCE • Privilege Escalation  
+• Burp Suite • Metasploit • Nmap • Nessus  
+• SQLi • XSS 
 • Web Exploitation • Android Security • CTF Player  
 
 ---
@@ -160,7 +160,7 @@ src="https://github.com/SamirPaulb/SamirPaulb/blob/main/assets/rainbow-superthin
 <img src="https://skillicons.dev/icons?i=linux,docker,nginx" />
 </a>
 
-• Wireshark • Snort • Suricata • Zeek  
+• Wireshark • Snort • Suricata  
 • Firewall Hardening • IDS / IPS  
 • PCAP Forensics  
 
@@ -178,8 +178,7 @@ src="https://github.com/SamirPaulb/SamirPaulb/blob/main/assets/rainbow-superthin
 </a>
 
 • Secure Cloud Architecture  
-• Container Security • CI/CD Hardening  
-• IAM Policy Enforcement  
+• Container Security • CI/CD Hardening    
 
 ---
 
@@ -208,9 +207,9 @@ src="https://github.com/SamirPaulb/SamirPaulb/blob/main/assets/rainbow-superthin
 <img src="https://skillicons.dev/icons?i=git,github,postman,vscode,linux,windows" />
 </a>
 
-• Wireshark • Autopsy • Volatility  
+• Wireshark • Autopsy   
 • Nessus • OpenVAS • Burp • Metasploit  
-• Nmap • Kali Linux • OWASP ZAP  
+• Nmap • Kali Linux   
 
 
 ## 📊 GitHub Stats
