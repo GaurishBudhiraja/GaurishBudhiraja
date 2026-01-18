@@ -1,16 +1,3 @@
-## 🔐 Repository Usage Policy
-
-This repository is publicly visible but **not open for unrestricted cloning or reuse.**
-
-If you wish to use, modify, fork, or deploy this code, you MUST:
-- Open a GitHub Issue titled: **"Permission to Use Repo – <your GitHub ID>"**
-- Mention your GitHub username
-- Briefly state your purpose
-
-Unauthorized use may be reported.
-
----
-
 <p align="center">
   <img src="https://raw.githubusercontent.com/GaurishBudhiraja/GaurishBudhiraja/main/g_banner.gif"
        width="100%"
