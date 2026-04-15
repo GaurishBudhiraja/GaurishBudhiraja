@@ -6,7 +6,7 @@
 </p>
 
 
-<h1 id="top" align="center">Hi, I'm Gaurish Budhiraja <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1></h1>
+<h1 id="top" align="center">Hi, I'm Satyarth Pandey <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1></h1>
 <h3 align="center">Cybersecurity Engineer | Blue Team Junior Analyst | Linux Security</h3>
 
 <p align="center">
