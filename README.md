@@ -34,7 +34,7 @@
 - 🔄 Repeat `Brainstorming`, `Coding`, and `Debugging`.
 - 📂 Portfolio:  **<a href="https://gaurishbudhiraja.vercel.app" target="_blank">https://gaurishbudhiraja.vercel.app</a>**
 - 📫 How to reach me **gaurishbudhiraja2005@gmail.com**
-- 📄 Know more about my experiences in my **[Resume](https://acrobat.adobe.com/id/urn:aaid:sc:AP:a2dcbacb-5406-4a11-bd6c-34ffe936c873)**.
+- 📄 Know more about my experiences in my **[Resume](https://acrobat.adobe.com/id/urn:aaid:sc:AP:f4b69711-4918-42fc-8423-e99cd9d4ee0e)**.
 
 - ✨ Enjoy my GitHub profile.
 
